@@ -1,4 +1,4 @@
-# [BL4NK Bootstrap Edition](http://blank.vc)
+# Violentmonkey
 
 Light, powerful and free template for Joomla!™
 for faster and easier web development.
